@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @jamieyu0914
 - 👀 I’m interested in ... surf the Internet
 - 🌱 I’m currently learning ... and is a WeHelp Bootcamp trainee
-- 🍔 I’m looking to ... what to have for lunch
+- 🍔 I’m looking to ... what to have for lunch everyday
 - 📫 How to reach me ... via jamieyu0914@gmail.com
 
 <!---
