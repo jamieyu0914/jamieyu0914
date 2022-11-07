@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @jamieyu0914
-- 👀 I’m interested in ...　surf the Internet
+- 👀 I’m interested in ... surf the Internet
 - 🌱 I’m currently learning ... is a WeHelp Bootcamp trainee
 - 🍔 I’m looking to ... what to have for lunch
 - 📫 How to reach me ... via jamieyu0914@gmail.com
