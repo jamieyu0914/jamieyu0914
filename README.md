@@ -4,6 +4,9 @@
 - 🍔 I’m looking to ... what to have for lunch everyday
 - 📫 How to reach me ... via jamieyu0914@gmail.com
 
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=jamieyu0914&show_icons=true&theme=default&line_height=20px&card_width=250px)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jamieyu0914&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+
 <!---
 jamieyu0914/jamieyu0914 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
