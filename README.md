@@ -4,7 +4,6 @@
 - 🍔 I’m looking to ... what to have for lunch everyday
 - 📫 How to reach me ... via jamieyu0914@gmail.com
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=jamieyu0914&show_icons=true&icon_color=24292f&title_color=2f80ed&card_width=250px&include_all_commits=true)](https://github.com/anuraghazra/github-readme-stats)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jamieyu0914&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 <!---
