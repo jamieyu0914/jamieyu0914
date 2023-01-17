@@ -4,7 +4,7 @@
 - 🍔 I’m looking to ... what to have for lunch everyday
 - 📫 How to reach me ... via jamieyu0914@gmail.com
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jamieyu0914&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+<a href=""> <img align="center" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=jamieyu0914&theme=default&line_height=40&hide=css"/> </a>
 
 <!---
 jamieyu0914/jamieyu0914 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
