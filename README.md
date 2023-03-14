@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @jamieyu0914
-- 👀 I’m interested in ... surf the Internet
-- 🌱 I’m currently learning coding ... and is a [WeHelp Bootcamp](https://training.pada-x.com/wehelp/) trainee
+- 👋 Hi, I’m @jamieyu0914 ... you can learn more about me by reviewing [My Resume](https://drive.google.com/drive/folders/1-nL4hnIYtXTT57omB-UyWDgjHxP_R6tY?usp=sharing)
+- 👀 I’m interested in ... Surf the Internet
+- 🌱 I’m currently learning coding ... and is a [WeHelp Bootcamp](https://training.pada-x.com/wehelp/) Backend Trainee
 - 🍔 I’m looking to ... what to have for lunch everyday
 - 📫 How to reach me ... via jamieyu0914@gmail.com
 
